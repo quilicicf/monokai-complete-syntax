@@ -1,0 +1,32 @@
+
+// Config -----------------------------------
+@syntax-hue:          220;
+@syntax-saturation:   13%;
+@syntax-brightness:   18%;
+
+
+// Monochrome -----------------------------------
+@mono-1: #f8f8f2; // default text
+@mono-2: #f8f8f2;
+@mono-3: #75715e;
+
+// Colors -----------------------------------
+@hue-1:   #66d9ef; // <-cyan
+@hue-2:   #a6e22e; // <-blue
+@hue-3:   #f92672; // <-purple
+@hue-4:   #e6db74; // <-green
+@orange: #FD971F;
+
+@hue-5:   #ae81ff; // <-red 1
+@hue-5-2: #ff00c6; // <-red 2
+
+@hue-6:   @hue-5; // <-orange 1
+@hue-6-2: @hue-1; // <-orange 2
+
+
+// Base colors -----------------------------------
+@syntax-fg:     @mono-1;
+@syntax-bg:     #0D0D0D;
+@syntax-gutter: darken(@syntax-fg, 26%);
+@syntax-guide:  fade(@syntax-fg, 15%);
+@syntax-accent: @mono-1;
