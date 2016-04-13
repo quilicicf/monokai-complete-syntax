@@ -10,9 +10,7 @@ To do so, I've copied the code from the theme [One-dark](https://github.com/atom
 
 ## What does it look like ?
 
-![JavaScript example](https://raw.githubusercontent.com/quilicicf/monokai-complete-syntax/master/slider/js.png)
-
-For more examples, a [screenshot galery](http;//quilicicf.github.io/monokai-complete-syntax) is available.
+![JavaScript example](https://raw.githubusercontent.com/quilicicf/monokai-complete-syntax/master/doc/screenshot.png)
 
 ## Installation
 
