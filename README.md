@@ -3,6 +3,8 @@ monokai-complete-syntax
 
 A monokai theme for [Atom](https://atom.io/).
 
+![](https://badgen.net/apm/v/monokai-complete-syntax) ![](https://badgen.net/apm/license/monokai-complete-syntax) ![]() ![](https://badgen.net/apm/dl/monokai-complete-syntax) ![](https://badgen.net/apm/stars/monokai-complete-syntax)
+
 ### Note:
 
 _Monokai complete_ should be used in __Atom 1.7.0+__.
